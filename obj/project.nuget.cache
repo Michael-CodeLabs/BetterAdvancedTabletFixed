@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RRGd7bEEv9s=",
+  "success": true,
+  "projectFilePath": "E:\\Mods\\BetterAdvancedTabletFixed\\BetterAdvancedTabletFixed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moe\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.3\\system.runtime.compilerservices.unsafe.4.5.3.nupkg.sha512",
+    "C:\\Users\\Moe\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "C:\\Users\\Moe\\.nuget\\packages\\unitask\\2.5.10\\unitask.2.5.10.nupkg.sha512"
+  ],
+  "logs": []
+}

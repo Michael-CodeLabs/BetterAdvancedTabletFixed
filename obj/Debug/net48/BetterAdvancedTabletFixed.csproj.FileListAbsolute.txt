@@ -1,0 +1,16 @@
+E:\Mods\BetterAdvancedTabletFixed\obj\Debug\net48\BetterAdvancedTabletFixed.csproj.AssemblyReference.cache
+E:\Mods\BetterAdvancedTabletFixed\obj\Debug\net48\BetterAdvancedTabletFixed.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mods\BetterAdvancedTabletFixed\obj\Debug\net48\BetterAdvancedTabletFixed.AssemblyInfoInputs.cache
+E:\Mods\BetterAdvancedTabletFixed\obj\Debug\net48\BetterAdvancedTabletFixed.AssemblyInfo.cs
+E:\Mods\BetterAdvancedTabletFixed\obj\Debug\net48\BetterAdvancedTabletFixed.csproj.CoreCompileInputs.cache
+E:\Mods\BetterAdvancedTabletFixed\obj\Debug\net48\BetterAdvancedTabletFixed.sourcelink.json
+E:\Mods\BetterAdvancedTabletFixed\bin\Debug\BetterAdvancedTabletFixed.dll
+E:\Mods\BetterAdvancedTabletFixed\bin\Debug\BetterAdvancedTabletFixed.pdb
+E:\Mods\BetterAdvancedTabletFixed\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Mods\BetterAdvancedTabletFixed\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Mods\BetterAdvancedTabletFixed\bin\Debug\UniTask.dll
+E:\Mods\BetterAdvancedTabletFixed\bin\Debug\BepInEx.dll
+E:\Mods\BetterAdvancedTabletFixed\bin\Debug\BepInEx.xml
+E:\Mods\BetterAdvancedTabletFixed\obj\Debug\net48\BetterAd.386C0C31.Up2Date
+E:\Mods\BetterAdvancedTabletFixed\obj\Debug\net48\BetterAdvancedTabletFixed.dll
+E:\Mods\BetterAdvancedTabletFixed\obj\Debug\net48\BetterAdvancedTabletFixed.pdb

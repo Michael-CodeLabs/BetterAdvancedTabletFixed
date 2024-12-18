@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetadata xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>BetterAdvancedTabletFixed [StationeersMods]</Name>
-  <Author>Example</Author>
+  <Author>BrainClock</Author>
   <Version>0.2.5116.23239.1</Version>
   <!-- Steam description using steam styling tags for Steam workshop page -->
   <Description>[h1]BetterAdvancedTabletFixed[/h1]
